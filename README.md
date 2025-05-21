@@ -7,7 +7,7 @@ Database: PostgreSQL
 Data Source: CSV files (Books.csv, Customers.csv, Orders.csv)
 
 📁 Files Included
-Day_30_Project.sql: SQL script for database creation, table definitions, data import, and queries.
+Online Bookstore SQL Project.sql: SQL script for database creation, table definitions, data import, and queries.
 
 Books.csv: Contains information about books such as title, author, genre, year, price, and stock.
 
